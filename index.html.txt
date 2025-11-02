@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Fatima Online Academy - Aalimah Course</title>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; font-family: 'Poppins', sans-serif; }
+    body { background: #f5f7fa; color: #222; line-height: 1.6; }
+    header { background: #0e3b78; color: white; padding: 20px 10%; text-align: center; }
+    header h1 { font-size: 26px; letter-spacing: 1px; }
+    header h2 { font-size: 18px; font-weight: 400; margin-top: 5px; }
+
+    .container { padding: 40px 10%; max-width: 1200px; margin: auto; background: white; border-radius: 12px; box-shadow: 0 3px 10px rgba(0,0,0,0.1); }
+
+    .intro { text-align: center; margin-bottom: 30px; }
+    .intro h2 { font-size: 28px; color: #0e3b78; margin-bottom: 10px; }
+    .intro p { font-size: 16px; color: #444; }
+
+    .facilities { margin-top: 20px; }
+    .facilities h3 { color: #0e3b78; font-size: 22px; margin-bottom: 15px; text-align: center; }
+    .facilities ul { list-style: none; padding: 0; }
+    .facilities li { margin: 10px 0; font-size: 16px; background: #f0f6ff; padding: 10px 15px; border-radius: 8px; border-left: 5px solid #0e3b78; }
+
+    .highlight { background: #0e3b78; color: white; text-align: center; padding: 15px; margin-top: 30px; border-radius: 8px; font-weight: 600; }
+
+    .images { display: flex; justify-content: center; gap: 15px; flex-wrap: wrap; margin-top: 25px; }
+    .images img { width: 180px; border-radius: 12px; box-shadow: 0 2px 6px rgba(0,0,0,0.2); }
+
+    .join-section { text-align: center; margin-top: 40px; }
+    .join-section a { display: inline-block; text-decoration: none; background: #25D366; color: white; padding: 12px 25px; border-radius: 50px; font-weight: bold; font-size: 18px; transition: 0.3s; }
+    .join-section a:hover { background: #1da851; }
+
+    footer { background: #0e3b78; color: white; text-align: center; padding: 15px; margin-top: 40px; font-size: 14px; }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>Fatima Online Academy</h1>
+    <h2>Offers Aalimah Course – The Islamic Scholar Program</h2>
+  </header>
+
+  <section class="container">
+    <div class="intro">
+      <h2>Aalimah Course</h2>
+      <p>Enroll in our certified Islamic program designed exclusively for sisters — learn Quran, Hadees, Arabic, and more from qualified female scholars.</p>
+    </div>
+
+    <div class="facilities">
+      <h3>Facilities</h3>
+      <ul>
+        <li>Darja Awwal & Duwam</li>
+        <li>Weekly 5 Days Classes</li>
+        <li>Female Qualified Teachers</li>
+        <li>Certified Course</li>
+        <li>Flexible Classes in 2 Batches</li>
+        <li>Weekly Twice Tarbiyati Islah Majlis</li>
+        <li>No Age Limitation</li>
+        <li>Special Focus on Arabic to better know the Quran & Hadees e Mubarak</li>
+      </ul>
+    </div>
+
+    <div class="highlight">
+      Tajurbe Kar Aalimah Fazila Ki Nigrani Mein Class
+    </div>
+
+    <div class="images">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Quran_Book.jpg" alt="Quran Book">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/Arabic_calligraphy_books.jpg" alt="Islamic Books">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/f/f8/Quran_on_computer.jpg" alt="Online Quran Study">
+    </div>
+
+    <div class="join-section">
+      <p>📞 Join us today to begin your spiritual journey!</p>
+      <a href="https://wa.me/919039624091" target="_blank">Join on WhatsApp</a>
+    </div>
+  </section>
+
+  <footer>
+    &copy; 2025 Fatima Online Academy | All Rights Reserved
+  </footer>
+
+</body>
+</html>
